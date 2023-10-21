@@ -1,0 +1,8 @@
+<Route path="/business" element={<News country={this.props.country} category="general" />} />
+<Route path="/entertainment" element={<News country={this.props.country} category="general" />} />
+<Route path="/health" element={<News country={this.props.country} category="general" />} />
+<Route path="/science" element={<News country={this.props.country} category="general" />} />
+<Route path="/sports" element={<News country={this.props.country} category="general" />} />
+<Route path="/technology" element={<News country={this.props.country} category="general" />} />
+
+<Route path="/Home" element={<News country={this.props.country} category="general" />} />
